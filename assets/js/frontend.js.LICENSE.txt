@@ -1,0 +1,9 @@
+/*!
+ * Vue.js v2.7.16
+ * (c) 2014-2023 Evan You
+ * Released under the MIT License.
+ */
+
+/*! UIkit 3.21.12 | https://www.getuikit.com | (c) 2014 - 2024 YOOtheme | MIT License */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
